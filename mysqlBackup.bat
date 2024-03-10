@@ -22,7 +22,5 @@ if [%password%]==[] (mysqldump --routines --events -h %sqlIp% -u %username% %dat
 
 if %ERRORLEVEL% NEQ 0 ( echo Database backup failed %DATE% %TIME% >> %logFolder%\%database%-log.txt) else ( echo Database %cd%\%database%-%currentDateTime%.sql have been successfully backup %DATE% %TIME% >> %logFolder%\%database%-log.txt) 
 
-SET /p key=Type any key to exit...
-
 endlocal
 
