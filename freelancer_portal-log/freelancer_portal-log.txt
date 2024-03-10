@@ -1,0 +1,6 @@
+Database D:\wou\database-design-and-implementation\project\freelancer_portal-10-03-2024-16-57-32-17.sql have been successfully backup Sun 10/03/2024 16:57:32.17 
+Database D:\wou\database-design-and-implementation\project\freelancer_portal-10-03-2024-16-58-34-19.sql have been successfully backup Sun 10/03/2024 16:58:34.19 
+Database D:\wou\database-design-and-implementation\project\freelancer_portal-10-03-2024-16-58-44-23.sql have been successfully backup Sun 10/03/2024 16:58:44.23 
+Database D:\wou\database-design-and-implementation\project\freelancer_portal-10-03-2024-16-59-24-18.sql have been successfully backup Sun 10/03/2024 16:59:24.18 
+Database D:\wou\database-design-and-implementation\project\freelancer_portal-10-03-2024-17-06-45-64.sql have been successfully backup Sun 10/03/2024 17:06:45.64 
+Database D:\wou\database-design-and-implementation\project\freelancer_portal-10-03-2024-17-11-19-04.sql have been successfully backup Sun 10/03/2024 17:11:19.04 
